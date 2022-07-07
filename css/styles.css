@@ -1,0 +1,54 @@
+hr
+{
+  width: 8%;
+  border-width: 12px;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: #8888;
+}
+h1
+{
+  color: #44bfbf;
+  text-shadow: 0.5px 1px 3px black;
+}
+h3
+{
+  color: #66bfbf;
+}
+button:valid
+{
+  background-color: #66cfcfbb;
+  border-radius: 5px;
+  border-width: 2px;
+}
+button:hover
+{
+  border-radius: 5px;
+  border-width: 2px;
+  background-color: #00aaaacc;
+}
+button:focus
+{
+  color: white;
+  background-color: #00aaffcc;
+  border-color: #999;
+  border-radius: 5px;
+  border-width: 2px;
+}
+a:link
+{
+  color: #00bbff;
+  text-decoration: none;
+}
+a:visited
+{
+  color: #aa00FF;
+}
+a:hover
+{
+  color: #50FF00;
+}
+a:active
+{
+  color: #66bfbf;
+}
