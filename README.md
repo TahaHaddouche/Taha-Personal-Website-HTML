@@ -1,6 +1,6 @@
 # Taha-Personal-Page
 This is like an "about me" profile using html only with a bit of styling by css , haven't learn css yet tho.
 
-nice for my 1st html website.
+nice for my 1st html website, it will stay unchanged as souvenir.
 
 Thanks for visiting.
